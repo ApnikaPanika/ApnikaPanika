@@ -1,7 +1,9 @@
 ## Hello <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30px">, my name is Toms!
 
-<br/>
 
+Young programmer, who is really passionate about it! :) 
+
+PS. If you want to play cssbattle or chess  with me, i'm always up for challenge:P
 
 ### 🧰 Toolbox
 
