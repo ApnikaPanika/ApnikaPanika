@@ -1,7 +1,7 @@
 ## Hello <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30px">, my name is Toms!
 
 
-Young programmer, who is really passionate about it! :) 
+Young programmer, who is really passionate about it! <img src="https://cdn-icons-png.flaticon.com/512/742/742751.png" width="20" height="20"/>
 
 PS. If you want to play cssbattle or chess  with me, i'm always up for challenge:P
 
@@ -13,3 +13,4 @@ PS. If you want to play cssbattle or chess  with me, i'm always up for challenge
 My socials: 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/> https://www.linkedin.com/in/toms-bude/
+
