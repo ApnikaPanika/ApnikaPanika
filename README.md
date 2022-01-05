@@ -3,7 +3,7 @@
 
 Young programmer, who is really passionate about it! <img src="https://cdn-icons-png.flaticon.com/512/742/742751.png" width="18" height="18"/>
 
-PS. If you want to play cssbattle or chess  with me, i'm always up for challenge <img src="https://cdn-icons.flaticon.com/png/512/2584/premium/2584602.png?token=exp=1640698080~hmac=d7914618678d0c93f9905ea176ddd3d2" width="18" height="18"/>
+PS. If you want to play cssbattle or chess  with me, i'm always up for challenge!
 
 ### 🧰 Toolbox
 
