@@ -13,5 +13,5 @@ PS. If you want to play cssbattle or chess  with me, i'm always up for challenge
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/> https://www.linkedin.com/in/toms-bude/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApnikaPanika&layout=compact)](https://github.com/ApnikaPanika/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApnikaPanika&layout=compact)]
 
