@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30px">, my name is Toms!</h1>
 
-Young programmer, who is really passionate about it! <img src="https://cdn-icons-png.flaticon.com/512/742/742751.png" width="18" height="18"/>
+I am young programmer, who is really passionate about it! <img src="https://cdn-icons-png.flaticon.com/512/742/742751.png" width="18" height="18"/>
 
 PS. If you want to play cssbattle or chess  with me, I'm always up for challenge!
 
