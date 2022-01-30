@@ -12,6 +12,10 @@ PS. If you want to play cssbattle or chess  with me, I'm always up for challenge
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/> https://www.linkedin.com/in/toms-bude/
 
+### Contacts: 
+
+budetoms2000@gmail.com 
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApnikaPanika&layout=compact)](https://github.com/ApnikaPanika)
