@@ -8,7 +8,7 @@ I am a young programmer from Latvia, who is really passionate about it! <img src
 
 ### My socials: 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/> https://www.linkedin.com/in/toms-bude/
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/> <a href="https://www.linkedin.com/in/toms-bude/" target="_blank">My profile</a>
 
 ### Contacts: 
 
@@ -17,4 +17,3 @@ budetoms2000@gmail.com
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApnikaPanika&layout=compact)](https://github.com/ApnikaPanika)
-
