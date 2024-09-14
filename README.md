@@ -8,7 +8,7 @@ I am a young programmer from Latvia, who is really passionate about it! <img src
 
 ### My socials: 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/> <a href="https://www.linkedin.com/in/toms-bude/" target="_blank">My profile</a>
+<div display="flex" align-items="center"><a href="https://www.linkedin.com/in/toms-bude/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/>Linkedin profile</a></div>
 
 ### Contacts: 
 
